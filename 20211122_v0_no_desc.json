@@ -1,0 +1,26 @@
+[
+    {
+        "data212": [
+            {
+                "Part": "Data1",
+                "Description": "Stok",
+                "Quantity": 616
+            },
+            {
+                "Part": "Data2",
+                "Description": "Sedang Produksi",
+                "Quantity": 581
+            },
+            {
+                "Part": "Data3",
+                "Description": "Antrian Produksi",
+                "Quantity": 570
+            },
+            {
+                "Part": "Data4",
+                "Description": "Lot Making",
+                "Quantity": 379
+            }
+        ]
+    }
+]
