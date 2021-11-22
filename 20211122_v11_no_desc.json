@@ -1,22 +1,22 @@
 [
 	{
 		"Part": "Data1",
-		"Description": "Data_1",
+		"Description": "Stok",
 		"Quantity": 616
 	},
 	{
 		"Part": "Data2",
-		"Description": "Data_2",
+		"Description": "Sedang Produksi",
 		"Quantity": 581
 	},
 	{
 		"Part": "Data3",
-		"Description": "Data_3",
+		"Description": "Antrian Produksi",
 		"Quantity": 570
 	},
 	{
 		"Part": "Data4",
-		"Description": "Data_4",
+		"Description": "Lot Making",
 		"Quantity": 379
 	}
 ]
